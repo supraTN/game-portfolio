@@ -60,6 +60,6 @@ Le shop du jeu offre plusieurs options pour améliorer votre expérience :
 ## Installation
 
 1. **Téléchargez l’exécutable** depuis [Onedrive](https://epitechfr-my.sharepoint.com/:f:/g/personal/adam_mellakh_epitech_eu/Es_-croqNgRPkn6Xw-ziGr4Bv6bOcbEB4TDXPEW-Gf1WeA?e=QrZsJ1).
-2. Telecharger le fichier Windows qui ce trouve dans le Fichier mabé.
+2. Telecharger le fichier Windows qui ce trouve dans le fichier mabé.
 
 ---
