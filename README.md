@@ -1,2 +1,2 @@
 # game-portfolio
-Welcome to my game development portfolio! 🚀 Here, you'll find a collection of games I've created or contributed to, showcasing my skills in game design, programming, and development.
+Bienvenue dans mon portfolio de développement de jeux ! 🚀 Ici, vous trouverez une collection de jeux que j'ai créés ou auxquels j'ai contribué, mettant en avant mes compétences en conception de jeu, programmation et développement.
